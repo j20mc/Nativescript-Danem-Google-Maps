@@ -1,6 +1,6 @@
 {
   "name": "nativescript-danem-google-maps",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A NativeScript Goole maps.",
   "main": "map-view",
   "typings": "map-view.d.ts",
@@ -64,5 +64,6 @@
     "tslint": "^4.5.1",
     "typescript": "^2.6.2",
     "zone.js": "~0.8.12"
-  }
+  },
+  "dependencies": {}
 }
